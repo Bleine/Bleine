@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Bleine
 
-<!--
-**Bleine/Bleine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Assessora de Investimentos em transição para a área de Ciência de Dados**  
+💡 Tenho experiência no mercado financeiro e estou focando em transformar dados em decisões estratégicas.
 
-Here are some ideas to get you started:
+📚 Atualmente estudando:
+- Python e SQL
+- Estatística aplicada
+- Power BI
+- Git e Github
+- Fundamentos de Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projetos práticos:
+- Análise exploratória de dados financeiros
+- Dashboards interativos com Power BI (em andamento)
+
+📈 Interesso-me por soluções baseadas em dados para investimentos, análise de risco e comportamento de clientes.
+
+📫 Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/bleinebach)
+
+
