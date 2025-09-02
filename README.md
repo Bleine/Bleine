@@ -1,7 +1,6 @@
 ## 👋 Olá! Eu sou a Bleine
 
-🎯 **Assessora de Investimentos explorando Ciência de Dados**  
-💡 Tenho experiência no mercado financeiro e estou focando em transformar dados em decisões estratégicas.
+Tenho experiência no mercado financeiro e estou focando em transformar dados em decisões estratégicas.
 
 📚 Atualmente estudando:
 - Python e SQL
