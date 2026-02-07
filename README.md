@@ -1,22 +1,48 @@
-## 👋 Olá! Eu sou a Bleine
+# 👋 About Me
 
-Tenho experiência no mercado financeiro e estou focando em transformar dados em decisões estratégicas.
+I have a background in the financial market and I am currently transitioning into **Data Science**, focusing on building a solid foundation to transform data into informed, practical decisions.
 
-📚 Atualmente estudando:
-- Python e SQL
-- Estatística aplicada
-- Power BI
-- Git e Github
-- Fundamentos de Machine Learning
+My interests lie at the intersection of **Finance and Data**, particularly in investment analysis, risk assessment, and understanding customer behavior through data.
 
-🛠️ Projetos práticos:
-- Análise exploratória de dados financeiros
-- Dashboards interativos com Power BI (em andamento)
+---
 
-📈 Interesso-me por soluções baseadas em dados para investimentos, análise de risco e comportamento de clientes.
+## 📚 Currently Studying
 
-📫 Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/bleinebach)
+- Python for data analysis  
+- SQL for data querying and manipulation  
+- Applied statistics  
+- Power BI for data visualization  
+- Git & GitHub (version control)  
+- Machine Learning fundamentals  
 
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+---
+
+## 🧪 Hands-on Learning
+
+At this stage, my work consists of **guided exercises and study notebooks**, where I practice:
+
+- Exploratory data analysis (EDA)  
+- Basic financial metrics and risk concepts  
+- Data cleaning and manipulation  
+- Simple data visualizations  
+
+These materials reflect my learning process and my approach to applying data concepts in practice.
+
+---
+
+## 📈 Areas of Interest
+
+- Data-driven investment decisions  
+- Portfolio and risk analysis  
+- Financial analytics  
+- Customer behavior analysis  
+
+---
+
+## 📫 Let’s Connect
+
+I’m actively building projects and continuously improving my skills.  
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/bleinebach)** to follow my learning journey and future projects.
+ 
 
 
