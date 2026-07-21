@@ -1,48 +1,18 @@
-# 👋 About Me
+# Bleine Bach
+📍 Abu Dhabi, UAE
 
-I have a background in the financial market and I am currently transitioning into **Data Science**, focusing on building a solid foundation to transform data into informed, practical decisions.
+Data Analyst with hands-on experience in quantitative finance and a science-based academic background (M.Sc. in Veterinary Sciences, B.Sc. in Animal Science).
 
-My interests lie at the intersection of **Finance and Data**, particularly in investment analysis, risk assessment, and understanding customer behavior through data.
+I work with SQL, Excel, Python and Power BI to turn raw data into dashboards, reports, and decisions — with a particular interest in investment analysis, risk assessment, and production/operational data.
 
----
+## Toolkit
+SQL · Excel · Python (Pandas, NumPy, Seaborn) · Power BI · MySQL · Databricks · ETL · Statistical Analysis
 
-## 📚 Currently Studying
+## Featured Projects
+- **[investment-portfolio-optimization](https://github.com/Bleine/investment-portfolio-optimization)** — Python-based tool for portfolio risk, return, and asset allocation analysis
+- **[vendas-analytics-powerbi](https://github.com/Bleine/vendas-analytics-powerbi)** — Power BI dashboard with relational data modeling for sales and operations KPIs
+- **[olist-ecommerce](https://github.com/Bleine/olist-ecommerce)** — SQL and Databricks analysis of e-commerce sales trends and consumer behavior
+- **[kkbox](https://github.com/Bleine/kkbox)** — Churn prediction analysis (Kaggle dataset) — *in progress*
 
-- Python for data analysis  
-- SQL for data querying and manipulation  
-- Applied statistics  
-- Power BI for data visualization  
-- Git & GitHub (version control)  
-- Machine Learning fundamentals  
-
----
-
-## 🧪 Hands-on Learning
-
-At this stage, my work consists of **guided exercises and study notebooks**, where I practice:
-
-- Exploratory data analysis (EDA)  
-- Basic financial metrics and risk concepts  
-- Data cleaning and manipulation  
-- Simple data visualizations  
-
-These materials reflect my learning process and my approach to applying data concepts in practice.
-
----
-
-## 📈 Areas of Interest
-
-- Data-driven investment decisions  
-- Portfolio and risk analysis  
-- Financial analytics  
-- Customer behavior analysis  
-
----
-
-## 📫 Let’s Connect
-
-I’m actively building projects and continuously improving my skills.  
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/bleinebach)** to follow my learning journey and future projects.
- 
-
-
+## Connect
+[LinkedIn](https://www.linkedin.com/in/bleinebach)
