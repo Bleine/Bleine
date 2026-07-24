@@ -10,7 +10,7 @@ SQL · Excel · Python (Pandas, NumPy, Seaborn) · Power BI · MySQL · Databric
 
 ## Featured Projects
 - **[investment-portfolio-optimization](https://github.com/Bleine/investment-portfolio-optimization)** — Python-based tool for portfolio risk, return, and asset allocation analysis
-- **[vendas-analytics-powerbi](https://github.com/Bleine/vendas-analytics-powerbi)** — Power BI dashboard with relational data modeling for sales and operations KPIs
+- **[sales-analytics-powerbi](https://github.com/Bleine/vendas-analytics-powerbi)** — Power BI dashboard with relational data modeling for sales and operations KPIs
 - **[olist-ecommerce](https://github.com/Bleine/olist-ecommerce)** — SQL and Databricks analysis of e-commerce sales trends and consumer behavior
 - **[kkbox](https://github.com/Bleine/kkbox)** — Churn prediction analysis (Kaggle dataset) — *in progress*
 
